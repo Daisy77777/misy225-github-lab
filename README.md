@@ -6,6 +6,6 @@ some practice files
 
 I have the following python skills:
 
-list and dict
-loops
-re
+-list and dict
+-loops
+-re
